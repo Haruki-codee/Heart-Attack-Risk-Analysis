@@ -56,9 +56,6 @@ A data analysis project that explores key risk factors associated with heart att
 - Distribution plots for Age, Cholesterol, Heart Rate
 - Risk breakdown by lifestyle factors (Smoking, Obesity, Diet)
 - Correlation heatmap
-- Feature importance analysis
-- Predictive model (Logistic Regression / Random Forest)
-
 ---
 
 ## 🛠️ Requirements
