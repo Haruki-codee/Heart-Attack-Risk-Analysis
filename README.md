@@ -90,13 +90,7 @@ jupyter notebook Heart_Attack_Risk_Analysis.ipynb
 
 4. Run all cells in order (`Kernel > Restart & Run All`)
 
----
-
-## 👤 Author
-
-> Add your name, GitHub profile, or contact info here.
-
----
+--
 
 ## 📄 License
 
